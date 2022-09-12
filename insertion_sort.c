@@ -17,7 +17,7 @@ int main()
         printf(" %d ", arr[i]);
     }
     // sorting in ascending order using insertion sort
-  /*  printf("\nThe array in ascending order is: ");
+    printf("\nThe array in ascending order is: ");
 
     for (int i = 1; i < n; i++)
     {
@@ -41,10 +41,10 @@ int main()
     for (int i = 0; i < n; i++)
     {
         printf(" %d ", arr[i]);
-    }*/
+    }
     printf("\n\n\n descending order:\n\n\n");
     // sorting in descending order using insertion sort
-    printf("\nThe array in ascending order is: ");
+   /* printf("\nThe array in ascending order is: ");
 
     for (int i = 1; i < n; i++)
     {
@@ -69,7 +69,7 @@ int main()
     {
         printf(" %d ", arr[i]);
     }
-
+*/
     printf("\nThank you!!\n");
     return 0;
 }
